@@ -3,7 +3,7 @@
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description 
-This project is a full stack web application using the MERN Stack to create an e-commerce website using React and Redux with Stripe payments. Users will be able to checkout when there is lost of connection and view their order history out of checkout. Users will also be able to sign up and login in to their account. 
+This project uses the MERN Stack to create an e-commerce website using React and Redux with Stripe payments. Users will be able to see when there is a loss of connection and view their order history at checkout. Users will also be able to sign up and login into their account. 
 
 ## Table of Contents
 * [Installation](#installation)
@@ -23,9 +23,6 @@ This application will allow users to add products to their cart either from the 
 
 ## License 
 This project is license under MIT
-
-## Contributing 
-Contributors should read the installation section. 
 
 ## Tests
 This application tests the reducers. 
